@@ -17,3 +17,5 @@
 ![alt text](air.png)
 
 ### Finally all these visuals were combined and cross filters were activated to form the dashboard which provide the insights were to increase the focus for the customer satification.
+
+![alt text](bri.png)
